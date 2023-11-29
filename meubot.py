@@ -19,7 +19,7 @@ localizacao = {
 }
 
 # Criação do cache com uma capacidade de 1 item e tempo de vida de 60 segundos
-cache = TTLCache(maxsize=1, ttl=60)
+cache = TTLCache(maxsize=1, ttl=10)
 
 # Função para enviar mensagens
 def enviar_mensagem(chat_id, mensagem):
