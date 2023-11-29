@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Variáveis globais
-TOKEN = "6942272197:AAG_caCl5wdbYAHbu2tf1yUP7lXNSslVuwk"
+TOKEN = "641034310:AAFSbYy5smSLfRWhcsotupgP9Whv9swqvmY"
 
 # Informações específicas de localização
 localizacao = {
